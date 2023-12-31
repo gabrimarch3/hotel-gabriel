@@ -33,7 +33,7 @@ un progetto avanzato sviluppato con Next.js, React, Sanity.io, Tailwind CSS e St
     Esegui il seguente comando:
 
     ```powershell
-    git clone https://github.com/tuonome/hotel-booking.git
+    git clone https://github.com/gabrimarch3/hotel-gabriel.git
     ```
 
 2. **Naviga nella Cartella del Progetto:**
@@ -41,7 +41,7 @@ un progetto avanzato sviluppato con Next.js, React, Sanity.io, Tailwind CSS e St
     Esegui il seguente comando:
 
     ```powershell
-    cd hotel-booking
+    cd hotel-gabriel
     ```
 
 3. **Installazione di Node.js:**
